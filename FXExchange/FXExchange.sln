@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FXExchange.App", "FXExchange.App\FXExchange.App.csproj", "{787CCDB7-7E83-43C8-B27A-9409615B35CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FXExchange.Domain", "FXExchange.Domain\FXExchange.Domain.csproj", "{407E5733-824D-41A8-BFF0-0C09EF291332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FXExchange.Tests", "FXExchange.Tests\FXExchange.Tests.csproj", "{0E834C54-AFF7-4637-B833-C8E8002A5090}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{407E5733-824D-41A8-BFF0-0C09EF291332}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{407E5733-824D-41A8-BFF0-0C09EF291332}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{407E5733-824D-41A8-BFF0-0C09EF291332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E834C54-AFF7-4637-B833-C8E8002A5090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E834C54-AFF7-4637-B833-C8E8002A5090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E834C54-AFF7-4637-B833-C8E8002A5090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E834C54-AFF7-4637-B833-C8E8002A5090}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
