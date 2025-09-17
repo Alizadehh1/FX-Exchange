@@ -1,6 +1,7 @@
 # FXExchange
 
 FXExchange is a command-line currency converter built in C# using .NET 9.
+Technical task for DanskeBank
 
 ## Features
 
